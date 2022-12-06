@@ -1,0 +1,6 @@
+name: Green Minecraft
+version: '${project.version}'
+main: green.greenminecraft.GreenMinecraft
+api-version: 1.19
+description: Adding green to minecraft
+website: https://github.com/sjiforgot/green-minecraft
