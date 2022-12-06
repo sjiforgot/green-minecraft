@@ -34,7 +34,7 @@ public class PlayerHandler implements Listener {
                     p.addPotionEffect(new PotionEffect(PotionEffectType.HUNGER, 150, 4), true);
                 }
             }
-            if (result % 3 > 0) {
+            if (result % 3 > 0 || p.hasPotionEffect(PotionEffectType.CONFUSION)) {
                 PotionEffect amp = p.getPotionEffect(PotionEffectType.CONFUSION);
                 if (amp != null) {
                     p.addPotionEffect(new PotionEffect(PotionEffectType.CONFUSION, amp.getDuration() + 200, amp.getAmplifier() + 1));
