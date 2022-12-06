@@ -11,6 +11,8 @@ Wheat ----- Wheat
 ### Craft Stash:
 Green Green Green
 
+### Note:
 Stash cannot be placed
 
+## Summary
 Good luck have fun!
