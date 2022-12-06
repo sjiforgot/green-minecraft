@@ -2,9 +2,11 @@
 Added green stuff to minecraft
 
 ### To craft cookie:
-Wheat       Wheat
+Wheat ----- Wheat
+
 Green Beans Green
-Wheat       Wheat
+
+Wheat ----- Wheat
 
 ### Craft Stash:
 Green Green Green
